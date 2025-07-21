@@ -5,5 +5,5 @@ Feel free to explore the **Hitesh Kumar CV.pdf** file to learn more about my qua
 ---
 
 **Contact:**
-kumhit871@gmail.com
-https://www.linkedin.com/in/hitesh-kumar-12ba3228a/
+Email : kumhit871@gmail.com
+Linkedin ID : linkedin.com/in/hitesh-kumar-12ba3228a/

@@ -55,7 +55,7 @@
 
 ---
 
-### 2. Smart Inventory System
+### 2. Smart Inventory Management System
 **GitHub:** [Project Link](https://github.com/HiteshKumar360/Smart-Inventory-System)
 **Tech Stack:** Java (Swing), MySQL, JDBC, JFreeChart
 

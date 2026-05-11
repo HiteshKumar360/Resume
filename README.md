@@ -46,7 +46,7 @@
 ## Projects
 
 ### 1. Medicine Recommendation System
-**GitHub:** [Project Link](https://github.com/HiteshKumar360/Medicine-Recommendation-System/tree/my-new-branch)
+**GitHub:** [Project Link](https://github.com/HiteshKumar360/Medicine-Recommendation-System)
 **Tech Stack:** Python, HTML, CSS, JavaScript
 
 - Collaboratively designed and developed an ML-powered application to assist healthcare professionals and patients.
@@ -56,7 +56,7 @@
 ---
 
 ### 2. Smart Inventory Management System
-**GitHub:** [Project Link](https://github.com/HiteshKumar360/Smart-Inventory-System)
+**GitHub:** [Project Link](https://github.com/HiteshKumar360/Smart-Inventory-Management-System)
 **Tech Stack:** Java (Swing), MySQL, JDBC, JFreeChart
 
 - Developed a desktop-based inventory management system improving product tracking, stock monitoring, and sales efficiency.

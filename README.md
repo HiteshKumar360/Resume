@@ -49,7 +49,7 @@
 ## Projects
 
 ### 1. Customer Churn Prediction
-**GitHub:** [Project Link] | **Live Demo:** [Demo Link]
+**GitHub:** [Project Link](https://github.com/HiteshKumar360/Customer-Churn-Prediction) | **Live Demo:** [Demo Link](https://customer-churn-prediction-d7ma2oof4j4u88e6dcyguc.streamlit.app/)
 **Tech Stack:** Python, Scikit-learn, LightGBM, SHAP, MLflow, Streamlit, Pandas, Plotly
 
 - Developed an end-to-end machine learning platform to predict telecom customer churn, analyze customer segments, and generate targeted retention strategies.
@@ -59,7 +59,7 @@
 ---
 
 ### 2. Medicine Recommendation System
-**GitHub:** [Project Link] | **Live Demo:** [Demo Link]
+**GitHub:** [Project Link](https://github.com/HiteshKumar360/Medicine-Recommendation-System) | **Live Demo:** [Demo Link](https://medicine-recommendation-system-r2k5.onrender.com)
 **Tech Stack:** Python, Flask, Scikit-learn, Pandas, NumPy
 
 - Developed an ML-powered healthcare web application using Flask to predict diseases from user-entered symptoms and provide personalized recommendations.

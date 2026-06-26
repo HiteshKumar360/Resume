@@ -11,9 +11,9 @@
 
 ## Education
 
-| Institution | Degree / Board | Score | Year |
+| Institution | Degree | Score | Year |
 |---|---|---|---|
-| Vellore Institute of Technology, Bhopal | B.Tech — Computer Science & Engineering | CGPA: 8.53 | Sept 2023 – May 2027 |
+| Vellore Institute of Technology, Bhopal | B.Tech — Computer Science & Engineering | CGPA: 8.55 | Sept 2023 – May 2027 |
 
 ---
 
@@ -22,62 +22,65 @@
 | Category | Skills |
 |---|---|
 | Programming Languages | Java, C++, Python, SQL |
-| Core Competencies | DSA, Operating Systems, OOP, DBMS |
-| Web Technologies | HTML, CSS |
-| Libraries / Frameworks | NumPy, Pandas, Scikit-learn |
-| Tools & Platforms | AWS, Git, GitHub, Power BI, MySQL Workbench |
+| Core Competencies | Data Structures & Algorithms, Operating Systems, OOP, DBMS |
+| Libraries / Frameworks | NumPy, Pandas, Scikit-learn, LightGBM, SHAP, MLflow |
+| Tools & Platforms | AWS, Git, GitHub, Power BI, MySQL |
+
+---
+
+## Certifications
+- **AWS Certified Cloud Practitioner** — Amazon Web Services (AWS)
+- **Marketing Analytics** — NPTEL (IIT Kharagpur)
 
 ---
 
 ## Work Experience
 
-### AI & Cloud Technology Intern — Edunet Foundation
+### AI & Cloud Technology Virtual Intern — Edunet Foundation
 **Duration:** Sept 2025 – Oct 2025
-**Collaboration:** AICTE & IBM SkillsBuild
+**Collaboration:** IBM SkillsBuild
 
-- Completed a 4-week internship focused on Artificial Intelligence and Cloud Computing.
-- Worked on real-world AI use cases using cloud-based platforms via IBM SkillsBuild.
-- Applied machine learning workflows and data processing techniques to practical problems.
-- Gained hands-on understanding of cloud infrastructure, deployment models, and scalable AI integration.
-- Strengthened problem-solving, adaptability, and technical communication through collaborative tasks.
+- Completed a 4-week virtual internship focused on Artificial Intelligence and Cloud Computing.
+- Applied machine learning workflows, data processing techniques, and cloud-based platforms to solve real-world AI use cases.
+- Gained hands-on exposure to cloud infrastructure, deployment models, and scalable AI integration practices.
 
 ---
 
 ## Projects
 
-### 1. Medicine Recommendation System
-**GitHub:** [Project Link](https://github.com/HiteshKumar360/Medicine-Recommendation-System)
-**Tech Stack:** Python, HTML, CSS, JavaScript
+### 1. Customer Churn Prediction
+**GitHub:** [Project Link] | **Live Demo:** [Demo Link]
+**Tech Stack:** Python, Scikit-learn, LightGBM, SHAP, MLflow, Streamlit, Pandas, Plotly
 
-- Collaboratively designed and developed an ML-powered application to assist healthcare professionals and patients.
-- Identifies probable diseases based on patient-provided symptoms and recommends precautions, medications, diet, and workout plans.
-- Designed for integration with existing healthcare systems such as EMRs and pharmacy management systems.
+- Developed an end-to-end machine learning platform to predict telecom customer churn, analyze customer segments, and generate targeted retention strategies.
+- Built a LightGBM classification pipeline with feature engineering, SMOTE balancing, and hyperparameter tuning achieving **0.821 ROC-AUC** and **79% churn recall**.
+- Implemented customer segmentation using K-Means clustering and integrated SHAP-based explainability to identify churn drivers and provide actionable business insights.
 
 ---
 
-### 2. Smart Inventory Management System
+### 2. Medicine Recommendation System
+**GitHub:** [Project Link] | **Live Demo:** [Demo Link]
+**Tech Stack:** Python, Flask, Scikit-learn, Pandas, NumPy
+
+- Developed an ML-powered healthcare web application using Flask to predict diseases from user-entered symptoms and provide personalized recommendations.
+- Built an SVM classifier to identify **41 diseases** using **132 symptom features** with machine learning-based prediction.
+- Implemented recommendation modules for medications, precautions, diet plans, and workout suggestions using dataset-driven retrieval.
+
+---
+
+### 3. Smart Inventory Management System
 **GitHub:** [Project Link](https://github.com/HiteshKumar360/Smart-Inventory-Management-System)
 **Tech Stack:** Java (Swing), MySQL, JDBC, JFreeChart
 
-- Developed a desktop-based inventory management system improving product tracking, stock monitoring, and sales efficiency.
-- Implemented secure user authentication and a real-time dashboard with insights on stock levels, low-stock alerts, and sales performance.
-- Built a sales module with auto-calculated totals and bar-chart visualizations for revenue analysis.
+- Developed a desktop-based inventory management system for product tracking, stock monitoring, and sales management.
+- Implemented secure authentication and a real-time dashboard with insights on products, stock alerts, categories, and sales.
+- Built sales management features with automated billing calculations and data visualization for revenue analysis.
 
 ---
 
 ## Achievements
-
-- Solved **250+ DSA problems** on LeetCode and GeeksforGeeks covering arrays, trees, graphs, and dynamic programming.
-- Contest ratings: **LeetCode — 1500** | **Codeforces — 1200**
+- Solved **250+ DSA problems** on LeetCode and GeeksforGeeks, covering arrays, trees, graphs, and dynamic programming.
 
 ---
 
-## Certifications
-
-- **The Bits and Bytes of Computer Networking** — Google (Coursera)
-- **Introduction to Machine Learning** — IIT Madras (NPTEL)
-
----
-
-
-*Last updated: May 2026*
+*Last updated: June 2026*
